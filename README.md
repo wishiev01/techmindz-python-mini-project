@@ -1,0 +1,1 @@
+# techmindz-python-mini-project
